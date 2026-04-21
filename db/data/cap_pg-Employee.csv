@@ -1,0 +1,33 @@
+ID,employeeId,name,department,position,salary,email,phone,hireDate,retirementDate,createdAt,createdBy,modifiedAt,modifiedBy
+1,EMP001,John Sukati,SALES,General Manager Sales,185000,john.sukati@example.com,123-456-7890,2020-01-15,,2023-01-01,admin,2023-01-01,admin
+2,EMP002,Jane Sibandze-Sambo,MARKETING,Chief Marketing Officer,120000,jane.sambo@example.com,123-456-7891,2019-03-20,,2023-01-01,admin,2023-01-01,admin
+3,EMP003,Alice Johnson,FINANCE,Chief Financial Officer,230000,alice.johnson@example.com,123-456-7892,2021-05-10,,2023-01-01,admin,2023-01-01,admin
+4,EMP004,Bob Brown,PROCUREMENT,Chief Procurement Officer,110000,bob.brown@example.com,123-456-7893,2022-07-05,,2023-01-01,admin,2023-01-01,admin
+5,EMP005,Charlie Wilson Jele,MANUFACTURING,Chief Manufacturing Engineer,215000,charlie.w.jele@example.com,123-456-7897,2021-02-14,,2023-01-01,admin,2023-01-01,admin
+9,EMP009,George Taylor,RESEARCH AND DEVELOPMENT,Chief Research and Development Scientist,125000,george.taylor@example.com,123-456-7898,2020-06-30,,2023-01-01,admin,2023-01-01,admin
+10,EMP010,Helen Dlamini,ADMINISTRATION,General Manager Properties,80000,helen.dlamini@example.com,123-456-7899,2022-04-18,,2023-01-01,admin,2023-01-01,admin
+11,EMP011,Ian Zulu,OPERATIONS,Chief Operations Manager,120000,ian.zulu@example.com,123-456-7900,2019-08-22,,2023-01-01,admin,2023-01-01,admin
+12,EMP012,Jabulile Ledwaba,ADMINISTRATION,Chief Executive Officer,250000,jessica.ledwaba@example.com,123-456-7901,2022-10-10,,2023-01-01,admin,2023-01-01,admin
+13,EMP013,Themba Nkosi,SALES,Sales Representative,32000,themba.nkosi@example.com,123-456-7902,2021-03-08,,2023-01-01,admin,2023-01-01,admin
+14,EMP014,Lindiwe Mthembu,SALES,Senior Sales Consultant,48000,lindiwe.mthembu@example.com,123-456-7903,2020-07-15,,2023-01-01,admin,2023-01-01,admin
+15,EMP015,Sipho Mazibuko,MARKETING,Digital Marketing Specialist,42000,sipho.mazibuko@example.com,123-456-7904,2022-01-10,,2023-01-01,admin,2023-01-01,admin
+16,EMP016,Nomvula Shabalala,MARKETING,Brand Manager,58000,nomvula.shabalala@example.com,123-456-7905,2021-09-20,,2023-01-01,admin,2023-01-01,admin
+17,EMP017,Bongani Khumalo,FINANCE,Financial Analyst,52000,bongani.khumalo@example.com,123-456-7906,2022-05-03,,2023-01-01,admin,2023-01-01,admin
+18,EMP018,Zanele Motaung,FINANCE,Accountant,45000,zanele.motaung@example.com,123-456-7907,2021-11-17,,2023-01-01,admin,2023-01-01,admin
+19,EMP019,Mandla Dube,PROCUREMENT,Procurement Officer,38000,mandla.dube@example.com,123-456-7908,2023-02-01,,2023-01-01,admin,2023-01-01,admin
+20,EMP020,Precious Mhlongo,PROCUREMENT,Supply Chain Coordinator,44000,precious.mhlongo@example.com,123-456-7909,2022-08-22,,2023-01-01,admin,2023-01-01,admin
+21,EMP021,Nonhlanhla Mbatha,MANUFACTURING,Production Supervisor,55000,nonhlanhla.mbatha@example.com,123-456-7910,2020-04-14,,2023-01-01,admin,2023-01-01,admin
+22,EMP022,Fortunate Simelane,MANUFACTURING,Quality Control Technician,36000,fortunate.simelane@example.com,123-456-7911,2022-11-05,,2023-01-01,admin,2023-01-01,admin
+23,EMP023,Lungelo Zwane,RESEARCH AND DEVELOPMENT,Research Scientist,68000,lungelo.zwane@example.com,123-456-7912,2021-06-28,,2023-01-01,admin,2023-01-01,admin
+24,EMP024,Ncamsile Dlamini,RESEARCH AND DEVELOPMENT,Laboratory Technician,40000,ncamsile.dlamini@example.com,123-456-7913,2023-01-16,,2023-01-01,admin,2023-01-01,admin
+25,EMP025,Sandile Msweli,OPERATIONS,Operations Coordinator,41000,sandile.msweli@example.com,123-456-7914,2022-03-07,,2023-01-01,admin,2023-01-01,admin
+26,EMP026,Hlengiwe Maseko,OPERATIONS,Logistics Officer,38000,hlengiwe.maseko@example.com,123-456-7915,2021-08-30,,2023-01-01,admin,2023-01-01,admin
+27,EMP027,Mduduzi Nxumalo,ADMINISTRATION,Administrative Assistant,28000,mduduzi.nxumalo@example.com,123-456-7916,2023-03-20,,2023-01-01,admin,2023-01-01,admin
+28,EMP028,James Whitfield,SALES,Key Account Manager,54000,james.whitfield@example.com,123-456-7917,2021-04-12,,2023-01-01,admin,2023-01-01,admin
+29,EMP029,Sarah Thompson,FINANCE,Senior Financial Analyst,62000,sarah.thompson@example.com,123-456-7918,2020-09-01,,2023-01-01,admin,2023-01-01,admin
+30,EMP030,Michael Harrison,OPERATIONS,Operations Manager,72000,michael.harrison@example.com,123-456-7919,2019-11-25,,2023-01-01,admin,2023-01-01,admin
+31,EMP031,Emily Carver,MARKETING,Marketing Strategist,50000,emily.carver@example.com,123-456-7920,2022-06-14,,2023-01-01,admin,2023-01-01,admin
+32,EMP032,Carlos Ferreira,MANUFACTURING,Process Engineer,60000,carlos.ferreira@example.com,123-456-7921,2021-01-19,,2023-01-01,admin,2023-01-01,admin
+33,EMP033,Ana Rodrigues,RESEARCH AND DEVELOPMENT,Senior Research Scientist,75000,ana.rodrigues@example.com,123-456-7922,2020-03-05,,2023-01-01,admin,2023-01-01,admin
+34,EMP034,Ricardo Mendes,PROCUREMENT,Senior Procurement Specialist,52000,ricardo.mendes@example.com,123-456-7923,2022-09-08,,2023-01-01,admin,2023-01-01,admin
+35,EMP035,Isabel Costa,ADMINISTRATION,Office Manager,46000,isabel.costa@example.com,123-456-7924,2021-07-22,,2023-01-01,admin,2023-01-01,admin
