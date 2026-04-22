@@ -1,0 +1,19 @@
+{
+  "requires": {
+    "auth": {
+      "kind": "mocked",
+      "users": {
+        "EmployeeAdmin": {
+          "id": "EmployeeAdmin",
+          "password": "EmployeeAdminadmin#$%",
+          "roles": ["EmployeeAdmin"]
+        },
+        "EmployeeViewer": {
+          "id": "EmployeeViewer",
+          "password": "userEmployeeViewer@#",
+          "roles": ["EmployeeViewer"]
+        }
+      }
+    }
+  }
+}
