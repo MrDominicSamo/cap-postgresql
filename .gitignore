@@ -5,6 +5,7 @@ _out
 connection.properties
 default-*.json
 .cdsrc-private.json
+.env
 gen/
 node_modules/
 target/
@@ -32,3 +33,6 @@ mta_archives/
 
 # @cap-js/cds-typer
 @cds-models
+
+# pg docker file
+pg.yml
