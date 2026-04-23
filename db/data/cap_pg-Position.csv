@@ -1,0 +1,25 @@
+ID,code,title
+e1f2a3b4-c5d6-4e7f-8a9b-0c1d2e3f4a5b,CEO,Chief Executive Officer
+f2a3b4c5-d6e7-4f8a-9b0c-1d2e3f4a5b6c,CFO,Chief Financial Officer
+b6c7d8e9-f0a1-4b2c-3d4e-5f6a7b8c9d0e,GENERAL_MANAGER_SALES,General Manager Sales
+c7d8e9f0-a1b2-4c3d-4e5f-6a7b8c9d0e1f,CMO,Chief Marketing Officer
+d8e9f0a1-b2c3-4d4e-5f6a-7b8c9d0e1f2a,CPO,Chief Procurement Officer
+e9f0a1b2-c3d4-4e5f-6a7b-8c9d0e1f2a3b,CHIEF_MFG_ENGINEER,Chief Manufacturing Engineer
+f0a1b2c3-d4e5-4f6a-7b8c-9d0e1f2a3b4c,CHIEF_RD_SCIENTIST,Chief Research and Development Scientist
+a1b2c3d4-e5f6-4a7b-8c9d-0e1f2a3b4c5d,GM_PROPERTIES,General Manager Properties
+b2c3d4e5-f6a7-4b8c-9d0e-1f2a3b4c5d6e,CHIEF_OPS_MANAGER,Chief Operations Manager
+c3d4e5f6-a7b8-4c9d-0e1f-2a3b4c5d6e7f,SALES_REP,Sales Representative
+d4e5f6a7-b8c9-4d0e-1f2a-3b4c5d6e7f8a,SENIOR_SALES_CONSULTANT,Senior Sales Consultant
+e5f6a7b8-c9d0-4e1f-2a3b-4c5d6e7f8a9b,DIGITAL_MARKETING_SPECIALIST,Digital Marketing Specialist
+f6a7b8c9-d0e1-4f2a-3b4c-5d6e7f8a9b0c,BRAND_MANAGER,Brand Manager
+a7b8c9d0-e1f2-4a3b-4c5d-6e7f8a9b0c1d,FINANCIAL_ANALYST,Financial Analyst
+a9b0c1d2-e3f4-4a5b-6c7d-8e9f0a1b2c3d,ACCOUNTANT,Accountant
+d6e7f8a9-b0c1-4d2e-3f4a-6b7c8d9e0f1a,KEY_ACCOUNT_MANAGER,Key Account Manager
+e7f8a9b0-c1d2-4e3f-4a5b-7c8d9e0f1a2b,SENIOR_FINANCIAL_ANALYST,Senior Financial Analyst
+f8a9b0c1-d2e3-4f4a-5b6c-8d9e0f1a2b3c,OPERATIONS_MANAGER,Operations Manager
+a9b0c1d2-e3f4-4a5b-6c7d-9e0f1a2b3c4d,MARKETING_STRATEGIST,Marketing Strategist
+b0c1d2e3-f4a5-4b6c-7d8e-0f1a2b3c4d5e,PROCESS_ENGINEER,Process Engineer
+c1d2e3f4-a5b6-4c7d-8e9f-1a2b3c4d5e6f,SENIOR_RESEARCH_SCIENTIST,Senior Research Scientist
+d2e3f4a5-b6c7-4d8e-9f0a-2b3c4d5e6f7a,SENIOR_PROCUREMENT_SPECIALIST,Senior Procurement Specialist
+c5d6e7f8-a9b0-4c1d-2e3f-5a6b7c8d9e0f,ADMIN_ASSISTANT,Administrative Assistant
+e3f4a5b6-c7d8-4e9f-0a1b-3c4d5e6f7a8b,OFFICE_MANAGER,Office Manager
