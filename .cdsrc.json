@@ -23,7 +23,7 @@
           "port": 5435,
           "database": "emsdb",
           "user": "ems",
-          "password": "NewSimplePass5822"
+          "password": "PASSWORD"
         }
       }
     }
