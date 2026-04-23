@@ -17,7 +17,7 @@ type Department : String enum {
 };
 
 entity Employee : cuid, managed {
-  employeeId : Integer;
+  employeeId : String(10);
   name : String(100);
   department : Department;
   position : String(100);

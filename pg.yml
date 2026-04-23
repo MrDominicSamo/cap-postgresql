@@ -1,0 +1,10 @@
+services:
+  db:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_DB: emsdb
+      POSTGRES_USER: ems
+      POSTGRES_PASSWORD: NewSimplePass5822
+    ports:
+      - "5435:5432"
+    restart: always

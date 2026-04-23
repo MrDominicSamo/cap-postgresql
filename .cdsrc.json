@@ -14,6 +14,18 @@
           "roles": ["EmployeeViewer"]
         }
       }
+    },
+    "db": {
+      "[pg]": {
+        "kind": "postgres",
+        "credentials": {
+          "host": "localhost",
+          "port": 5435,
+          "database": "emsdb",
+          "user": "ems",
+          "password": "NewSimplePass5822"
+        }
+      }
     }
   }
 }
